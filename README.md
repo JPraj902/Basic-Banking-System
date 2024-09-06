@@ -1,4 +1,4 @@
-![Basic-Banking-System](https://socialify.git.ci/JPraj902/Basic-Banking-System/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+![Basic-Banking-System](https://socialify.git.ci/JPraj902/Basic-Banking-System/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 ## Basic Banking System
 Hello guys, I have completed my task 1 Basic Banking System as a Web Development Intern under #GRIPNOVEMBER22 (i.e) GRADUATE ROTATIONAL INTERNSHIP PROGRAM by The Sparks Foundation. A Web Application used to transfer money between multiple users.
 
